@@ -1,0 +1,15 @@
+{
+	"name": "adfcarenik",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a69be79c-dfee-4ed7-a65b-bc694e09c795",
+		"tenantId": "6f7bb37d-8069-40f2-b7f6-cbcdffb7a58d"
+	}
+}
